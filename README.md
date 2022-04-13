@@ -1,5 +1,5 @@
-# Tugas Besar 2 - Web Services Using SOAP and REST
-Dorayaki Factory Server<br>
+# Dorayaki Factory Server
+Tugas Besar 2 - Web Services Using SOAP and REST<br>
 IF3110 - Pengembangan Perangkat Lunak Berbasis Web
 
 ## Table of Contents
